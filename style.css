@@ -1,0 +1,56 @@
+*{
+    font-family:Helvetica;
+  }
+  .container{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+  }
+  .Facebook{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background: linear-gradient(#3D56A1, #4D69BB);
+    color:white;
+    width:400px;
+    font-size: 130px;
+    border: 1px solid #C4C7CE;
+    margin-top:50px;
+  }
+  .F{
+    color:#4D69BB;
+    background-color: white;
+    height: 90px;
+    width:80px;
+    display:flex;
+    justify-content:center;
+    padding:2px;
+    padding-left:20px;
+    padding-right:1px;
+  }
+  .f2{
+    display:flex;
+    justify-content:center;
+    align-content:center;
+    font-weight:bold;
+  }
+  .like{
+    font-size:80px;
+    margin: 30px;
+    letter-spacing:2px;
+  }
+  .number{
+    margin-top:50px;
+    margin-left: 50px;
+    padding:20px;
+  }
+  .numbers{
+    color:#69707F;
+    font-size:100px;
+    padding:20px;
+    margin-top:20px;
+    margin-bottom:10px;
+    border :1px solid #C4C7CE;
+    border-radius: 20px 20px ;
+  }
+  
